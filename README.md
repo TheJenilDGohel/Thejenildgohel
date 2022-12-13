@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="22879862" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-gif-22879862">Anime Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <image src="https://tenor.com/en-GB/view/anime-gif-22879862">
 <img src="https://komarev.com/ghpvc/?username=Thejenildgohel&color=lightgreen" alt="watching_count" />
 </div>
 <p align="left"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
