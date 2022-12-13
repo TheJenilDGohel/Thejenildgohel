@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jenil D Gohel</h1>
 <h3 align="center">A passionate Mobile App Developer from India</h3>
 
+<br>
 <div align="center"> 
+  <h2> Visitors Count </h2>
   <img src="https://profile-counter.glitch.me/{Thejenildgohel}/count.svg" alt="Thejenildgohel :: Visitor's Count"/>
 </div>
 
