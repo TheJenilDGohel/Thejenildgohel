@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Mobile App Developer from India</h3>
 
 <br>
-<div align="center"> 
-  <h2> Visitors Count
-  <img src="https://profile-counter.glitch.me/{Thejenildgohel}/count.svg" alt="Thejenildgohel :: Visitor's Count"/>
-</h3>
-    </div>
+<img src="https://komarev.com/ghpvc/?username=Thejenildgohel&color=purple" alt="watching_count" />
 
 <p align="left"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
 
