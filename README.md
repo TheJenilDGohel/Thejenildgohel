@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile App Developer from India</h3>
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=Thejenildgohel&color=purple" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=Thejenildgohel&color=#A020F0" alt="watching_count" />
 
 <p align="left"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
 
