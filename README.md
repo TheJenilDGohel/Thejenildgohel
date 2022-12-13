@@ -3,10 +3,11 @@
 
 <br>
 <div align="center">
-  ![](https://tenor.com/en-GB/view/anime-gif-22879862)
+  <img src="https://64.media.tumblr.com/1545dd5313531c741c86858b95e79fcf/tumblr_mkqtx4hxaW1s5qslao1_500.gifv" />
+  <br>
 <img src="https://komarev.com/ghpvc/?username=Thejenildgohel&color=brightgreen" alt="watching_count" />
 </div>
-<p align="left"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
+<p align="center"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
