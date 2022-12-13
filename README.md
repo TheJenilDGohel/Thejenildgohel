@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejenildgohel&show_icons=true&locale=en" alt="thejenildgohel" /></p>
 
 <br>
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=Thejenildgohel&theme=juicyfresh&no-bg=true" />
 
 <br><br>
 <h3 align="left">Support:</h3>
