@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-  <image src="https://tenor.com/en-GB/view/anime-gif-22879862">
+  ![](https://tenor.com/en-GB/view/anime-gif-22879862)
 <img src="https://komarev.com/ghpvc/?username=Thejenildgohel&color=brightgreen" alt="watching_count" />
 </div>
 <p align="left"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
