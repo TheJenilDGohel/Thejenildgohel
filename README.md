@@ -3,9 +3,10 @@
 
 <br>
 <div align="center"> 
-  <h2> Visitors Count </h2>
+  <h2> Visitors Count
   <img src="https://profile-counter.glitch.me/{Thejenildgohel}/count.svg" alt="Thejenildgohel :: Visitor's Count"/>
-</div>
+</h3>
+    </div>
 
 <p align="left"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
 
