@@ -22,6 +22,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejenildgohel&show_icons=true&locale=en" alt="thejenildgohel" /></p>
 
+<br>
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 <br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/thejenildgohel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thejenildgohel" /></a></p>
