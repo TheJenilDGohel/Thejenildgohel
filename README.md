@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Mobile App Developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejenildgohel&label=Profile%20views&color=0e75b6&style=flat" alt="thejenildgohel" /> </p> -->
+<h3 align="center"> Visitors Count </h3>
 <img src="https://profile-counter.glitch.me/{Thejenildgohel}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 
 <p align="left"> <a href="https://twitter.com/thejenildgohel" target="blank"><img src="https://img.shields.io/twitter/follow/thejenildgohel?logo=twitter&style=for-the-badge" alt="thejenildgohel" /></a> </p>
