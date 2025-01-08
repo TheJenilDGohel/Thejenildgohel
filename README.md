@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-  <img src="https://64.media.tumblr.com/1545dd5313531c741c86858b95e79fcf/tumblr_mkqtx4hxaW1s5qslao1_500.gifv" />
+  <img src="[https://64.media.tumblr.com/1545dd5313531c741c86858b95e79fcf/tumblr_mkqtx4hxaW1s5qslao1_500.gifv](https://media1.tenor.com/m/F34qw5kiPI0AAAAd/musashi.gif)" />
   <br>
 <img src="https://komarev.com/ghpvc/?username=Thejenildgohel&color=brightgreen" alt="watching_count" />
 </div>
