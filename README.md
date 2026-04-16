@@ -185,6 +185,12 @@ I built 3 custom AI agents on [HuggingFace Chat](https://huggingface.co/chat/), 
 > *Writing about Flutter, security, AI, and React Native. [Read all articles →](https://jenildgohel.vercel.app/blog)*
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Your AI Agent Forgets Everything And How To Fix It With LocalNest](https://thejenildgohel.medium.com/why-your-ai-agent-forgets-everything-and-how-to-fix-it-with-localnest-f0339d1eb473?source=rss-237f5450cc5e------2)
+- [Jailbreak Hunters: Fortify Your Flutter App with Enhanced Root Detection](https://thejenildgohel.medium.com/jailbreak-hunters-fortify-your-flutter-app-with-enhanced-root-detection-7e25e375d84a?source=rss-237f5450cc5e------2)
+- [Lock, Encrypt, Protect: A Beginner’s Guide to AES Encryption in Flutter!](https://thejenildgohel.medium.com/lock-encrypt-protect-a-beginners-guide-to-aes-encryption-in-flutter-279617024ec1?source=rss-237f5450cc5e------2)
+- [Unveiling Hugging Face’s Chat: Meet My Personal AI Sidekicks](https://thejenildgohel.medium.com/unveiling-hugging-faces-chat-meet-my-personal-ai-sidekicks-60f53365c613?source=rss-237f5450cc5e------2)
+- [Introducing Snug Logger: Your Go-To Logging Package for Flutter ️](https://thejenildgohel.medium.com/introducing-snug-logger-your-go-to-logging-package-for-flutter-%EF%B8%8F-8c52293ec87d?source=rss-237f5450cc5e------2)
+- [Crafting User Interaction Engaging Experiences in React Native: A Step-by-Step Guide](https://thejenildgohel.medium.com/crafting-user-interaction-engaging-experiences-in-react-native-a-step-by-step-guide-2754a0f335dd?source=rss-237f5450cc5e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,ff00ff,0d1117&height=2"/>
