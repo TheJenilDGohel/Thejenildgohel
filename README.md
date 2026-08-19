@@ -26,6 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [The Claude Code Skill That Made My AI Stop Feeling Like a Bot](https://thejenildgohel.medium.com/the-claude-code-skill-that-made-my-ai-stop-feeling-like-a-bot-a4a1cf159453?source=rss-237f5450cc5e------2)
+- [Flutter 3.47 Is the Release Where the SDK Finally Lets Go](https://thejenildgohel.medium.com/flutter-3-47-is-the-release-where-the-sdk-finally-lets-go-4259cdd72e1d?source=rss-237f5450cc5e------2)
+- [I Built a Free, Open-Source Alternative to MobAI — So My AI Agents Can Finally See My Phone ️](https://thejenildgohel.medium.com/i-built-a-free-open-source-alternative-to-mobai-so-my-ai-agents-can-finally-see-my-phone-%EF%B8%8F-4923ee00fd09?source=rss-237f5450cc5e------2)
+- [I Avoid Vibe Coding For Almost Everything — Except This One Site](https://thejenildgohel.medium.com/i-avoid-vibe-coding-for-almost-everything-except-this-one-site-94b812dc5671?source=rss-237f5450cc5e------2)
+- [From Intern to Now: Why Mason Deserves More Credit Than It Gets](https://thejenildgohel.medium.com/from-intern-to-now-why-mason-deserves-more-credit-than-it-gets-88290027270e?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
