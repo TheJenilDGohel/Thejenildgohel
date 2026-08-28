@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [The New Mac Mini Costs More Than Ever — And I’d Still Buy It Over a Windows Machine ️](https://thejenildgohel.medium.com/the-new-mac-mini-costs-more-than-ever-and-id-still-buy-it-over-a-windows-machine-%EF%B8%8F-8db7c0b19bc5?source=rss-237f5450cc5e------2)
 - [I Thought Android Malware Died Out Years Ago. Then I Read About ToxicPanda 2.0.](https://thejenildgohel.medium.com/i-thought-android-malware-died-out-years-ago-then-i-read-about-toxicpanda-2-0-ff1635e263ff?source=rss-237f5450cc5e------2)
 - [Mason vs. Melos vs. AI Scaffolding — What Actually Belongs in a Flutter Monorepo in 2026](https://thejenildgohel.medium.com/mason-vs-melos-vs-ai-scaffolding-what-actually-belongs-in-a-flutter-monorepo-in-2026-e83906a8054a?source=rss-237f5450cc5e------2)
 - [flutter in 2026: what i’d actually tell myself if i was starting today](https://thejenildgohel.medium.com/flutter-in-2026-what-id-actually-tell-myself-if-i-was-starting-today-3b182704c7c7?source=rss-237f5450cc5e------2)
-- [The Claude Code Skill That Made My AI Stop Feeling Like a Bot](https://thejenildgohel.medium.com/the-claude-code-skill-that-made-my-ai-stop-feeling-like-a-bot-a4a1cf159453?source=rss-237f5450cc5e------2)
-- [Flutter 3.47 Is the Release Where the SDK Finally Lets Go](https://thejenildgohel.medium.com/flutter-3-47-is-the-release-where-the-sdk-finally-lets-go-4259cdd72e1d?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [The Claude Code Skill That Made My AI Stop Feeling Like a Bot](https://thejenildgohel.medium.com/the-claude-code-skill-that-made-my-ai-stop-feeling-like-a-bot-a4a1cf159453?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
