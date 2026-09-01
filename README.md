@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Opening Android Studio Just to Launch a Simulator — This Terminal Tool Fixed My Entire Flutter…](https://medium.com/never-stop-writing/stop-opening-android-studio-just-to-launch-a-simulator-this-terminal-tool-fixed-my-entire-flutter-e750e75bbde4?source=rss-237f5450cc5e------2)
 - [The Flutter Widgets I Keep Forgetting Exist &lpar;Until They Save Me an Hour&rpar;](https://thejenildgohel.medium.com/the-flutter-widgets-i-keep-forgetting-exist-until-they-save-me-an-hour-b46eb8201167?source=rss-237f5450cc5e------2)
 - [The New Mac Mini Costs More Than Ever — And I’d Still Buy It Over a Windows Machine ️](https://thejenildgohel.medium.com/the-new-mac-mini-costs-more-than-ever-and-id-still-buy-it-over-a-windows-machine-%EF%B8%8F-8db7c0b19bc5?source=rss-237f5450cc5e------2)
 - [I Thought Android Malware Died Out Years Ago. Then I Read About ToxicPanda 2.0.](https://thejenildgohel.medium.com/i-thought-android-malware-died-out-years-ago-then-i-read-about-toxicpanda-2-0-ff1635e263ff?source=rss-237f5450cc5e------2)
-- [Mason vs. Melos vs. AI Scaffolding — What Actually Belongs in a Flutter Monorepo in 2026](https://thejenildgohel.medium.com/mason-vs-melos-vs-ai-scaffolding-what-actually-belongs-in-a-flutter-monorepo-in-2026-e83906a8054a?source=rss-237f5450cc5e------2)
-- [flutter in 2026: what i’d actually tell myself if i was starting today](https://thejenildgohel.medium.com/flutter-in-2026-what-id-actually-tell-myself-if-i-was-starting-today-3b182704c7c7?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Mason vs. Melos vs. AI Scaffolding — What Actually Belongs in a Flutter Monorepo in 2026](https://thejenildgohel.medium.com/mason-vs-melos-vs-ai-scaffolding-what-actually-belongs-in-a-flutter-monorepo-in-2026-e83906a8054a?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
