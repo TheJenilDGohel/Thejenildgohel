@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [I Don’t Trust AI Coding Agents by Default — Here’s the 8-Layer Claude Code Setup That Earns It ️](https://thejenildgohel.medium.com/i-dont-trust-ai-coding-agents-by-default-here-s-the-8-layer-claude-code-setup-that-earns-it-%EF%B8%8F-c85223e176f2?source=rss-237f5450cc5e------2)
 - [Tim Cook Just Stepped Down as Apple’s CEO.](https://medium.com/never-stop-writing/tim-cook-just-stepped-down-as-apples-ceo-1a2b4b36c8e5?source=rss-237f5450cc5e------2)
 - [Stop Opening Android Studio Just to Launch a Simulator — This Terminal Tool Fixed My Entire Flutter…](https://medium.com/never-stop-writing/stop-opening-android-studio-just-to-launch-a-simulator-this-terminal-tool-fixed-my-entire-flutter-e750e75bbde4?source=rss-237f5450cc5e------2)
 - [The Flutter Widgets I Keep Forgetting Exist &lpar;Until They Save Me an Hour&rpar;](https://thejenildgohel.medium.com/the-flutter-widgets-i-keep-forgetting-exist-until-they-save-me-an-hour-b46eb8201167?source=rss-237f5450cc5e------2)
-- [The New Mac Mini Costs More Than Ever — And I’d Still Buy It Over a Windows Machine ️](https://thejenildgohel.medium.com/the-new-mac-mini-costs-more-than-ever-and-id-still-buy-it-over-a-windows-machine-%EF%B8%8F-8db7c0b19bc5?source=rss-237f5450cc5e------2)
-- [I Thought Android Malware Died Out Years Ago. Then I Read About ToxicPanda 2.0.](https://thejenildgohel.medium.com/i-thought-android-malware-died-out-years-ago-then-i-read-about-toxicpanda-2-0-ff1635e263ff?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [The New Mac Mini Costs More Than Ever — And I’d Still Buy It Over a Windows Machine ️](https://thejenildgohel.medium.com/the-new-mac-mini-costs-more-than-ever-and-id-still-buy-it-over-a-windows-machine-%EF%B8%8F-8db7c0b19bc5?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
