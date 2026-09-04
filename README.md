@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
-- [I Don’t Trust AI Coding Agents by Default — Here’s the 8-Layer Claude Code Setup That Earns It ️](https://thejenildgohel.medium.com/i-dont-trust-ai-coding-agents-by-default-here-s-the-8-layer-claude-code-setup-that-earns-it-%EF%B8%8F-c85223e176f2?source=rss-237f5450cc5e------2)
-- [Tim Cook Just Stepped Down as Apple’s CEO.](https://medium.com/never-stop-writing/tim-cook-just-stepped-down-as-apples-ceo-1a2b4b36c8e5?source=rss-237f5450cc5e------2)
-- [Stop Opening Android Studio Just to Launch a Simulator — This Terminal Tool Fixed My Entire Flutter…](https://medium.com/never-stop-writing/stop-opening-android-studio-just-to-launch-a-simulator-this-terminal-tool-fixed-my-entire-flutter-e750e75bbde4?source=rss-237f5450cc5e------2)
-- [The Flutter Widgets I Keep Forgetting Exist &lpar;Until They Save Me an Hour&rpar;](https://thejenildgohel.medium.com/the-flutter-widgets-i-keep-forgetting-exist-until-they-save-me-an-hour-b46eb8201167?source=rss-237f5450cc5e------2)
-- [The New Mac Mini Costs More Than Ever — And I’d Still Buy It Over a Windows Machine ️](https://thejenildgohel.medium.com/the-new-mac-mini-costs-more-than-ever-and-id-still-buy-it-over-a-windows-machine-%EF%B8%8F-8db7c0b19bc5?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Apple’s September 9 Event: Everything I Expect — And Why It’s Bigger Than Just a New iPhone](https://blog.stackademic.com/apples-september-9-event-everything-i-expect-and-why-it-s-bigger-than-just-a-new-iphone-3747423d6bc2?source=rss-237f5450cc5e------2)
+- [I Don’t Trust AI Coding Agents by Default — Here’s the 8-Layer Claude Code Setup That Earns It ️](https://blog.stackademic.com/i-dont-trust-ai-coding-agents-by-default-here-s-the-8-layer-claude-code-setup-that-earns-it-%EF%B8%8F-c85223e176f2?source=rss-237f5450cc5e------2)
+- [Tim Cook Just Stepped Down as Apple’s CEO.](https://thejenildgohel.medium.com/tim-cook-just-stepped-down-as-apples-ceo-1a2b4b36c8e5?source=rss-237f5450cc5e------2)
+- [Stop Opening Android Studio Just to Launch a Simulator — This Terminal Tool Fixed My Entire Flutter…](https://blog.stackademic.com/stop-opening-android-studio-just-to-launch-a-simulator-this-terminal-tool-fixed-my-entire-flutter-e750e75bbde4?source=rss-237f5450cc5e------2)
+- [The Flutter Widgets I Keep Forgetting Exist &lpar;Until They Save Me an Hour&rpar;](https://blog.stackademic.com/the-flutter-widgets-i-keep-forgetting-exist-until-they-save-me-an-hour-b46eb8201167?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
