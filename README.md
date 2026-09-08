@@ -26,10 +26,10 @@ Building resilient mobile ecosystems and AI memory infrastructure.<br/>
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Scrolling GitHub at 1AM Looking for a Memory Fix. I Found Something Better.](https://thejenildgohel.medium.com/i-was-scrolling-github-at-1am-looking-for-a-memory-fix-i-found-something-better-7fa59809a85f?source=rss-237f5450cc5e------2)
+- [The Skill I Almost Never Built, Because AI Kept Rescuing Me From the Struggle That Would’ve Built…](https://thejenildgohel.medium.com/the-skill-i-almost-never-built-because-ai-kept-rescuing-me-from-the-struggle-that-wouldve-built-098b976556bd?source=rss-237f5450cc5e------2)
+- [I Was Scrolling GitHub at 1AM Looking for a Memory Fix. I Found Something Better.](https://blog.stackademic.com/i-was-scrolling-github-at-1am-looking-for-a-memory-fix-i-found-something-better-7fa59809a85f?source=rss-237f5450cc5e------2)
 - [Apple’s September 9 Event: Everything I Expect — And Why It’s Bigger Than Just a New iPhone](https://blog.stackademic.com/apples-september-9-event-everything-i-expect-and-why-it-s-bigger-than-just-a-new-iphone-3747423d6bc2?source=rss-237f5450cc5e------2)
 - [I Don’t Trust AI Coding Agents by Default — Here’s the 8-Layer Claude Code Setup That Earns It ️](https://blog.stackademic.com/i-dont-trust-ai-coding-agents-by-default-here-s-the-8-layer-claude-code-setup-that-earns-it-%EF%B8%8F-c85223e176f2?source=rss-237f5450cc5e------2)
-- [Tim Cook Just Stepped Down as Apple’s CEO.](https://thejenildgohel.medium.com/tim-cook-just-stepped-down-as-apples-ceo-1a2b4b36c8e5?source=rss-237f5450cc5e------2)
-- [Stop Opening Android Studio Just to Launch a Simulator — This Terminal Tool Fixed My Entire Flutter…](https://blog.stackademic.com/stop-opening-android-studio-just-to-launch-a-simulator-this-terminal-tool-fixed-my-entire-flutter-e750e75bbde4?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
+- [Tim Cook Just Stepped Down as Apple’s CEO.](https://blog.stackademic.com/tim-cook-just-stepped-down-as-apples-ceo-1a2b4b36c8e5?source=rss-237f5450cc5e------2)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://jenildgohel.vercel.app/blog)
